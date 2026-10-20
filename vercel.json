@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/index.js": { "includeFiles": "dist/nosetha-africa-reads/**" }
+  },
+  "rewrites": [{ "source": "/(.*)", "destination": "/api/index" }]
+}
