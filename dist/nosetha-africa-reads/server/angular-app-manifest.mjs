@@ -7,29 +7,29 @@ export default {
   routes: undefined,
   entryPointToBrowserMapping: {
   "src/app/features/dashboard/read.component.ts": [
-    "chunk-4P7SZ327.js",
+    "chunk-SIHU3IDN.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/dashboard/verify.component.ts": [
-    "chunk-SGWR3D6V.js",
+    "chunk-CGR5UPTE.js",
     "chunk-V7EJVPH2.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/dashboard/my-achievements.component.ts": [
-    "chunk-BYYFLO2J.js",
+    "chunk-4SSKUWGN.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/dashboard/settings.component.ts": [
-    "chunk-USQ3SKXA.js",
+    "chunk-C67LPLLF.js",
     "chunk-V7EJVPH2.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/creator/creator-dashboard.component.ts": [
-    "chunk-BAGVQNB7.js",
+    "chunk-5UCIL4D7.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
@@ -40,106 +40,106 @@ export default {
     "chunk-MJH4KPUH.js"
   ],
   "src/app/features/auth/reset-password.component.ts": [
-    "chunk-TKUWNIWP.js",
+    "chunk-76CJ2JNP.js",
     "chunk-V7EJVPH2.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/auth/two-factor.component.ts": [
-    "chunk-N7J4JCDP.js",
+    "chunk-I3U3KDHT.js",
     "chunk-V7EJVPH2.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/join/join.component.ts": [
-    "chunk-ESXQ4LKD.js",
+    "chunk-O3X5IRLU.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/join/guardian-consent.component.ts": [
-    "chunk-EMTF4PBW.js",
+    "chunk-T7X3F662.js",
     "chunk-V7EJVPH2.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/join/qualify.component.ts": [
-    "chunk-VSIG3DZB.js",
+    "chunk-H36NK7XE.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/join/checkout.component.ts": [
-    "chunk-T2KQQQPE.js",
+    "chunk-44TM4XZN.js",
     "chunk-V7EJVPH2.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/join/payment-callback.component.ts": [
-    "chunk-5KEOH2CS.js",
+    "chunk-CPVFDQ6P.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/dashboard/dashboard.component.ts": [
-    "chunk-3N35OBTA.js",
+    "chunk-CNMUMR4L.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/faq/faq.component.ts": [
-    "chunk-ONXW3GKE.js",
+    "chunk-6SE2NK4O.js",
     "chunk-JCJMDYFK.js",
     "chunk-ARFZVAUR.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/contact/contact.component.ts": [
-    "chunk-WML4W6BZ.js",
+    "chunk-Y3WCYSR6.js",
     "chunk-V7EJVPH2.js",
     "chunk-ARFZVAUR.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/legal/legal-centre.component.ts": [
-    "chunk-YIV4YO5A.js",
+    "chunk-XFK6JQLY.js",
     "chunk-ARFZVAUR.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/legal/legal-page.component.ts": [
-    "chunk-TDLVFO6R.js",
+    "chunk-YYW7NY3P.js",
     "chunk-JCJMDYFK.js",
     "chunk-ARFZVAUR.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/auth/sign-in.component.ts": [
-    "chunk-YXE6K5SU.js",
+    "chunk-OYKN6KBU.js",
     "chunk-V7EJVPH2.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/auth/sign-up.component.ts": [
-    "chunk-QR4WIVXU.js",
+    "chunk-WLJ6PIEV.js",
     "chunk-V7EJVPH2.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/auth/verify-email.component.ts": [
-    "chunk-DIOGGA4W.js",
+    "chunk-VA5YQVD3.js",
     "chunk-V7EJVPH2.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/auth/forgot-password.component.ts": [
-    "chunk-XRIHWOP6.js",
+    "chunk-H44OGS7N.js",
     "chunk-V7EJVPH2.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/think/think.component.ts": [
-    "chunk-3MOK3INB.js",
+    "chunk-SSO3CK76.js",
     "chunk-ARFZVAUR.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/think/article.component.ts": [
-    "chunk-U2WFMLEA.js",
+    "chunk-73ROV3HR.js",
     "chunk-JCJMDYFK.js",
     "chunk-ARFZVAUR.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/compete/compete.component.ts": [
-    "chunk-LHDTVNPP.js",
+    "chunk-RKBMTQUT.js",
     "chunk-JCJMDYFK.js",
     "chunk-ARFZVAUR.js",
     "chunk-CCEPRT57.js",
@@ -151,25 +151,25 @@ export default {
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/achievements/achievements.component.ts": [
-    "chunk-O2GNIL3V.js",
+    "chunk-N7BHKPWL.js",
     "chunk-ARFZVAUR.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/recognition/recognition.component.ts": [
-    "chunk-PMPF3YKN.js",
+    "chunk-RRIRG5O7.js",
     "chunk-ARFZVAUR.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/rewards/rewards.component.ts": [
-    "chunk-CK36EDQO.js",
+    "chunk-EYXWDLNM.js",
     "chunk-ARFZVAUR.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/africa-reads-500/africa-reads-500.component.ts": [
-    "chunk-F24QJLGY.js",
+    "chunk-JMKVXMSN.js",
     "chunk-ARFZVAUR.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
@@ -183,34 +183,34 @@ export default {
     "chunk-V57PG3LP.js"
   ],
   "src/app/features/home/home.component.ts": [
-    "chunk-DYTVBTBQ.js",
+    "chunk-XCULIUQ6.js",
     "chunk-I32PDLPE.js"
   ],
   "node_modules/marked/lib/marked.esm.js": [
     "chunk-LCQLJAPA.js"
   ],
   "src/app/features/about/about.component.ts": [
-    "chunk-JBEXMMEC.js",
+    "chunk-DD35N6LL.js",
     "chunk-JCJMDYFK.js",
     "chunk-ARFZVAUR.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/book/book.component.ts": [
-    "chunk-HQW7HZWF.js",
+    "chunk-7DUC5Z7I.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ],
   "src/app/features/how-it-works/how-it-works.component.ts": [
-    "chunk-XF2A2KSR.js",
+    "chunk-5QZSFCEJ.js",
     "chunk-ARFZVAUR.js",
     "chunk-CCEPRT57.js",
     "chunk-I32PDLPE.js"
   ]
 },
   assets: {
-    'index.csr.html': {size: 13937, hash: '12140a13b754e9cda8476116646564272dbd42b0c2617e20885a3e6140afecbf', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 3151, hash: '504bc96a43128d5e9251c71df5e856ebb63156e49d57fcb91c1f74f37a785539', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'index.csr.html': {size: 13937, hash: '1683a800c394915bcfec08a6f8ad8ed306fd2db1d4cebfde77e417b0a4ea0322', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 3151, hash: '96d16ddf3d98f7926dfb2523c5485ce0881e9245c8012ad9707cf3d3e1ae3e91', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
     'styles-CFMDQNFB.css': {size: 111698, hash: '9f7xQy9ZUeU', text: () => import('./assets-chunks/styles-CFMDQNFB_css.mjs').then(m => m.default)}
   },
 };
