@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{R as n,dc as a,ma as s}from"./chunk-G6YPTFJK.mjs";var t="nar_ref",u=e=>{if(!a(n(s)))return!0;let r=e.queryParamMap.get("ref");if(r&&/^[A-Z0-9]{4,20}$/.test(r)){let c=Date.now()+2592e6;localStorage.setItem(t,JSON.stringify({code:r,expires:c}))}return!0};function f(){try{let e=localStorage.getItem(t);if(!e)return null;let{code:o,expires:r}=JSON.parse(e);return Date.now()>r?(localStorage.removeItem(t),null):o}catch{return null}}export{u as a,f as b};
